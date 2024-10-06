@@ -121,7 +121,7 @@ const SelectModal = ({
             source={finalImages[currentImageIndex]}
             style={{
               height: 700,
-              marginLeft: -157,
+              marginLeft: -364,
               position: "absolute",
               zIndex: 1,
             }}
@@ -136,8 +136,8 @@ const SelectModal = ({
             style={{
               width: 210,
               height: 280,
-              marginTop: 105,
-              marginLeft: 22,
+              marginTop: 18,
+              marginLeft: 24,
               position: "absolute",
               zIndex: 0,
             }}
@@ -152,8 +152,8 @@ const SelectModal = ({
             style={{
               width: 210,
               height: 280,
-              marginTop: 105,
-              marginLeft: 242,
+              marginTop: 18,
+              marginLeft: 238,
               position: "absolute",
               zIndex: 0,
             }}
@@ -168,8 +168,8 @@ const SelectModal = ({
             style={{
               width: 210,
               height: 280,
-              marginTop: 390,
-              marginLeft: 22,
+              marginTop: 298,
+              marginLeft: 24,
               position: "absolute",
               zIndex: 0,
             }}
@@ -184,8 +184,8 @@ const SelectModal = ({
             style={{
               width: 210,
               height: 280,
-              marginTop: 390,
-              marginLeft: 242,
+              marginTop: 298,
+              marginLeft: 238,
               position: "absolute",
               zIndex: 0,
             }}
@@ -447,7 +447,7 @@ const SelectModal = ({
                 borderRadius: "16px",
                 padding: 16,
                 width: "auto",
-                backgroundColor: "rgb(219 39 119)",
+                backgroundColor: "rgb(47 9 9)",
               }}
             >
               <Text

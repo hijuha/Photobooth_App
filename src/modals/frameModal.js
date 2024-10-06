@@ -49,7 +49,7 @@ const FrameModal = ({
               source={leftDirection}
               style={{
                 width: "80%",
-                marginTop: 200,
+                marginTop: 300,
                 marginRight: 20,
                 shadowColor: "#000",
                 shadowOffset: { width: 1, height: 1 },
@@ -62,7 +62,7 @@ const FrameModal = ({
           <View style={{ flex: 0.7 }}>
             <Image
               source={images[currentImageIndex]}
-              style={{ width: "103%", marginTop: -110 }}
+              style={{ width: "103%", marginTop: -300, marginLeft: -14 }}
               resizeMode="contain"
             />
           </View>
@@ -78,7 +78,7 @@ const FrameModal = ({
               source={rightDirection}
               style={{
                 width: "80%",
-                marginTop: 200,
+                marginTop: 300,
                 marginLeft: 20,
                 shadowColor: "#000",
                 shadowOffset: { width: 1, height: 1 },

@@ -119,8 +119,8 @@ const CameraModal = ({
         <Image
           source={pinkFrame}
           style={{
-            width: 1070,
-            marginTop: -450,
+            width: 594,
+            marginTop: -432,
             position: "absolute",
             zIndex: 0,
           }}
@@ -144,7 +144,7 @@ const CameraModal = ({
             height: 723,
             position: "absolute",
             zIndex: 1,
-            marginTop: 189,
+            marginTop: 280,
             backgroundColor: "blue",
           }}
         >
