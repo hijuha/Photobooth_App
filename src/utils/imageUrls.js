@@ -17,7 +17,7 @@ export const rightDirection = require("../../assets/etc/rightDirection.png");
 export const final = require("../../assets/etc/final.png");
 
 export const images = [
-  require("../../assets/frame/Frame1Shadow.png"),
+  require("../../assets/frame/Frame1.png"),
   require("../../assets/frame/Frame2.png"),
   require("../../assets/frame/Frame3.png"),
   require("../../assets/frame/Frame4.png"),
