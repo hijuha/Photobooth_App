@@ -21,6 +21,7 @@ export const images = [
   require("../../assets/frame/Frame2.png"),
   require("../../assets/frame/Frame3.png"),
   require("../../assets/frame/Frame4.png"),
+  require("../../assets/frame/Frame5.png"),
 ];
 
 export const finalImages = [
@@ -28,6 +29,7 @@ export const finalImages = [
   require("../../assets/frame/Frame2.png"),
   require("../../assets/frame/Frame3.png"),
   require("../../assets/frame/Frame4.png"),
+  require("../../assets/frame/Frame5.png"),
 ];
 
 export const selectNumImg = [
